@@ -1,0 +1,7 @@
+my-website/
+│
+├─ index.html
+├─ style.css
+└─ images/
+     ├─ wallpaper.jpg
+     └─ logo.png
